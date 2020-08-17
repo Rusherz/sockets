@@ -1,0 +1,35 @@
+{
+  "name": "with-typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "axios": "^0.19.2",
+    "next": "9.4.4",
+    "next-redux-wrapper": "^6.0.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-redux": "^7.2.1",
+    "redux": "4.0.5",
+    "redux-devtools-extension": "2.13.8",
+    "redux-thunk": "2.3.0",
+    "sass": "^1.26.10"
+  },
+  "devDependencies": {
+    "typescript": "3.7.3",
+    "@types/redux": "^3.6.0",
+    "@types/node": "^12.12.21",
+    "@types/react": "^16.9.43",
+    "@types/react-dom": "^16.9.8",
+    "@types/redux-thunk": "^2.1.0",
+    "@types/react-redux": "^7.1.9",
+    "@types/next-redux-wrapper": "^3.0.0"
+  },
+  "license": "ISC"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "socket",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "isomorphic-ws": "^4.0.1",
+        "uuidv4": "^6.1.0",
+        "ws": "^7.3.0"
+    },
+    "devDependencies": {
+        "@types/uuidv4": "^5.0.0",
+        "@types/ws": "^7.2.5",
+        "ts-loader": "^7.0.5",
+        "typescript": "^3.9.5"
+    }
+}

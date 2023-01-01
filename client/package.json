@@ -16,7 +16,7 @@
     "devDependencies": {
         "@types/uuidv4": "^5.0.0",
         "@types/ws": "^7.2.5",
-        "ts-loader": "^7.0.5",
+        "ts-loader": "^9.4.2",
         "typescript": "^3.9.5"
     }
 }
